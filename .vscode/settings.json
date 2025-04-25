@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "app_driver.h": "c",
+        "esp_rmaker_console.h": "c",
+        "esp_rmaker_standard_params.h": "c",
+        "app_main.h": "c",
+        "esp_rmaker_schedule.h": "c",
+        "esp_rmaker_common_events.h": "c",
+        "inttypes.h": "c"
+    }
+}
